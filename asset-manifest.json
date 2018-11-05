@@ -1,9 +1,9 @@
 {
   "static/js/0.2aa35f89.chunk.js": "/greycat-studio/static/js/0.2aa35f89.chunk.js",
   "static/js/0.2aa35f89.chunk.js.map": "/greycat-studio/static/js/0.2aa35f89.chunk.js.map",
-  "main.css": "/greycat-studio/static/css/main.0c340eeb.chunk.css",
-  "main.js": "/greycat-studio/static/js/main.2d997b2a.chunk.js",
-  "main.js.map": "/greycat-studio/static/js/main.2d997b2a.chunk.js.map",
+  "main.css": "/greycat-studio/static/css/main.2f9eab20.chunk.css",
+  "main.js": "/greycat-studio/static/js/main.829416ca.chunk.js",
+  "main.js.map": "/greycat-studio/static/js/main.829416ca.chunk.js.map",
   "static/js/2.d2f21f51.chunk.js": "/greycat-studio/static/js/2.d2f21f51.chunk.js",
   "static/js/2.d2f21f51.chunk.js.map": "/greycat-studio/static/js/2.d2f21f51.chunk.js.map",
   "static/js/3.e15d0ad0.chunk.js": "/greycat-studio/static/js/3.e15d0ad0.chunk.js",
@@ -120,9 +120,9 @@
   "static/media/greycat-head.svg": "/greycat-studio/static/media/greycat-head.1c3ecd4c.svg",
   "static/media/open-iconic-bootstrap.min.css": "/greycat-studio/static/media/open-iconic.eca2c267.svg",
   "static/wasm/greycat.wasm": "/greycat-studio/static/wasm/greycat.de310772.wasm",
-  "static/css/main.0c340eeb.chunk.css.map": "/greycat-studio/static/css/main.0c340eeb.chunk.css.map",
+  "static/css/main.2f9eab20.chunk.css.map": "/greycat-studio/static/css/main.2f9eab20.chunk.css.map",
   "static/css/50.03b23fd6.chunk.css.map": "/greycat-studio/static/css/50.03b23fd6.chunk.css.map",
   "index.html": "/greycat-studio/index.html",
-  "precache-manifest.91b11067c5320c9a9161c4444897f14d.js": "/greycat-studio/precache-manifest.91b11067c5320c9a9161c4444897f14d.js",
+  "precache-manifest.1688978efd0930b790c1e5ef7ad7d741.js": "/greycat-studio/precache-manifest.1688978efd0930b790c1e5ef7ad7d741.js",
   "service-worker.js": "/greycat-studio/service-worker.js"
 }

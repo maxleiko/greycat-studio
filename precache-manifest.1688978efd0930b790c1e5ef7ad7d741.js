@@ -8,8 +8,8 @@ self.__precacheManifest = [
     "url": "/greycat-studio/static/js/0.2aa35f89.chunk.js"
   },
   {
-    "revision": "2d997b2a93b43cbd6e18",
-    "url": "/greycat-studio/static/js/main.2d997b2a.chunk.js"
+    "revision": "829416cadd999d363509",
+    "url": "/greycat-studio/static/js/main.829416ca.chunk.js"
   },
   {
     "revision": "d2f21f511cb1e47aee13",
@@ -260,15 +260,15 @@ self.__precacheManifest = [
     "url": "/greycat-studio/static/media/open-iconic.47151e87.eot"
   },
   {
-    "revision": "2d997b2a93b43cbd6e18",
-    "url": "/greycat-studio/static/css/main.0c340eeb.chunk.css"
+    "revision": "829416cadd999d363509",
+    "url": "/greycat-studio/static/css/main.2f9eab20.chunk.css"
   },
   {
     "revision": "5482f9d1b1c767b7ee1f",
     "url": "/greycat-studio/static/css/50.03b23fd6.chunk.css"
   },
   {
-    "revision": "82a09af2a78f07e5e8ea9dead053d47f",
+    "revision": "d03282881f0bf9dbf3989dc95241e1a2",
     "url": "/greycat-studio/index.html"
   }
 ];
