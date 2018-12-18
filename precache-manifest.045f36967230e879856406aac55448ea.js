@@ -8,8 +8,8 @@ self.__precacheManifest = [
     "url": "/greycat-studio/static/js/0.95b9a8cf.chunk.js"
   },
   {
-    "revision": "f7b7b6508243a5b8ff93",
-    "url": "/greycat-studio/static/js/main.f7b7b650.chunk.js"
+    "revision": "e459a4ba38f11cbe645f",
+    "url": "/greycat-studio/static/js/main.e459a4ba.chunk.js"
   },
   {
     "revision": "b062665e0da66657589c",
@@ -124,8 +124,8 @@ self.__precacheManifest = [
     "url": "/greycat-studio/static/js/29.bdc1e873.chunk.js"
   },
   {
-    "revision": "846d13da1eccddc37f59f4360f5d5aba",
-    "url": "/greycat-studio/static/wasm/greycat.846d13da.wasm"
+    "revision": "d46f8a1d01d676cd4ccfd3d450fad36f",
+    "url": "/greycat-studio/static/wasm/greycat.d46f8a1d.wasm"
   },
   {
     "revision": "f8a0644818c1c6072612",
@@ -236,7 +236,7 @@ self.__precacheManifest = [
     "url": "/greycat-studio/static/js/56.0ee69983.chunk.js"
   },
   {
-    "revision": "f7b7b6508243a5b8ff93",
+    "revision": "e459a4ba38f11cbe645f",
     "url": "/greycat-studio/static/css/main.fd8b32c8.chunk.css"
   },
   {
@@ -244,7 +244,7 @@ self.__precacheManifest = [
     "url": "/greycat-studio/static/css/50.20365424.chunk.css"
   },
   {
-    "revision": "5fc73e677c2b3e3f25596e18da1e8bec",
+    "revision": "dbd1cd4b67a4f2b7a9cdd1a2d5a7f288",
     "url": "/greycat-studio/index.html"
   }
 ];
